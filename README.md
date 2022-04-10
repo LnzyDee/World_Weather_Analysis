@@ -2,7 +2,7 @@
 
 ## Overview
 
-Gathering world weather data and cities generated using the [OpenWeatherMap](https://openweathermap.org) to provide users with a vacation itinerary--created with the use of the [Google Maps API](https://developers.google.com/maps)--catered to their desired weather and providing destinations, hotels, and current weather descritpions based on user preferences.
+Gathering world weather data and cities generated using the [OpenWeatherMap](https://openweathermap.org) to provide users with a vacation itinerary--created with the use of the [Google Maps API](https://developers.google.com/maps)--catered to their desired weather and providing destinations, hotels, and current weather descriptions based on user preferences.
 
 ## Resources
 - Data Source: [OpenWeatherMap](https://openweathermap.org),
